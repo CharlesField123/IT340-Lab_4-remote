@@ -1,0 +1,3 @@
+memory Log - Wed Oct  7 12:09:03 AM EDT 2026
+Mem:           7.3Gi       2.3Gi       607Mi        91Mi       4.5Gi       5.0Gi
+--------------------------
